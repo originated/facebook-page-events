@@ -3,7 +3,7 @@
 This a skelton app that integrates fbgraph gem which will display events happening for
 any particular facebook page. To demo make sure to replace the facebook.yml with your app
 credientials.   Fire up "Rails s" and the localhost will load with a page example.   The page
-"detroitzoo" can easily be with the page_id setting in facebook.yml.
+"detroitzoo" can easily be changed with the page_id setting in facebook.yml.
 
 
 
